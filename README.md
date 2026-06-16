@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer, expertise in C,C++,JS,PYTHON,HTML,CSS,NYMOY,PANDAS,MATPLOTLIB,SCIKIT,MATLAB.
+Aspiring Software Engineer, expertise in C,C++,JS,PYTHON,HTML,CSS,NUMPY,PANDAS,MATPLOTLIB,SCIKIT,MATLAB.
 
 
 # 💻 Tech Stack:
