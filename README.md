@@ -1,95 +1,108 @@
-<!-- Replace YOUR_GITHUB_USERNAME and links -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Lovish%20Menaria&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:36BCF7,50:7F5AF0,100:00C9A7&text=Lovish%20Menaria&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Competitive%20Programmer&descAlignY=58"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Competitive+Programmer;Building+with+MERN+Stack;Learning+Next.js+%26+TypeScript;Always+Learning+Something+New)](https://git.io/typing-svg)
-
-<p>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://YOUR_PORTFOLIO"><img src="https://skillicons.dev/icons?i=vercel"/></a>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=lovishmenaria14-gif">
+    <img src="https://komarev.com/ghpvc/?username=lovishmenaria14-gif&label=Profile%20views&color=00FFFF&style=flat-square" alt="lovishmenaria14-gif's profile views" />
+  </a>
 </p>
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
 
----
+## 📌 About Me
+- ## 💫 About Me
+- 💻 Passionate **Full Stack Web Developer** focused on building modern and scalable web applications.
+- 🧩 Competitive Programmer who enjoys solving challenging DSA and algorithmic problems.
+- 🎓 Currently pursuing **B.Tech (2nd Year)** while continuously improving development skills.
+- 🌱 Learning **Next.js, TypeScript, System Design, and Backend Development**.
+- 🚀 Exploring **AI, Open Source, and Cloud Technologies**.
+- 🎯 Aspiring to become a **Software Engineer** at a top product-based company.
+- ⚡ Believe in learning by building real-world projects.
 
-## 💫 About Me
 
-- 🎓 BTech Student
-- 💻 Passionate Full Stack Developer
-- 🧩 Competitive Programmer
-- 🌱 Currently learning **Next.js, TypeScript & System Design**
-- 🚀 Interested in scalable web applications, AI and Open Source
-- 🎯 Goal: Become a Software Engineer at a top product-based company
+## 🧠 My Focus Areas
+- Web Development
+- Data Structure & Algorithms
+- Competitive Programming
 
----
 
-## ⚡ Tech Stack
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/lovishmenaria14-gif">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lovishmenaria14-gif&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="lovishmenaria14-gif's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=lovishmenaria14-gif&theme=merko&hide_border=true&cache_seconds=86400" alt="lovishmenaria14-gif's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=lovishmenaria14-gif&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Lovish Menaria's GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/lovishmenaria14-gif">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lovishmenaria14-gif&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=lovishmenaria14-gif)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/lovish-menaria-b6b562316/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Lovish Menaria's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:lovishmenaria14008@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Lovish Menaria's Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://lovish-14-portfolio.vercel.app/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,vscode&perline=8"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-
-<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:36BCF7,50:7F5AF0,100:00C9A7&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=30"/>
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
