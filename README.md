@@ -30,7 +30,7 @@
   <table>
     <tr>
       <td width="60%">
-        <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="25" /> About Me</h2>
+        <h2>😉 About Me</h2>
         <p>I am a passionate <strong>Full Stack Web Developer</strong> and <strong>Competitive Programmer</strong> currently pursuing my B.Tech (2nd Year) in Electronics and Communication Engineering. I thrive on solving logical puzzles and building scalable digital experiences.</p>
         <p>✨ <strong>Goal:</strong> To become a Software Engineer at a top product-based company, contributing to high-impact software.</p>
         <p>🌱 <strong>Currently Learning:</strong> MERN Stack, Next.js, TypeScript, and System Design.<br/>
@@ -48,7 +48,7 @@
 
 <!-- TECH STACK -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Tech Stack & Tools</h2>
+  <h2>💻 Tech Stack & Tools</h2>
   <br/>
   <!-- Skill Icons (Dark Theme) -->
   <a href="https://skillicons.dev">
@@ -60,7 +60,7 @@
 
 <!-- COMPETITIVE PROGRAMMING -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" /> Competitive Programming</h2>
+  <h2>🏆 Competitive Programming</h2>
   <p>
     <!-- Replace the usernames in the hrefs below with your actual CP handles -->
     <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
@@ -76,7 +76,7 @@
 
 <!-- GITHUB STATS -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" /> GitHub Statistics</h2>
+  <h2>📊 GitHub Statistics</h2>
 </div>
 <br/>
 
@@ -118,7 +118,7 @@
 
 <!-- FEATURED PROJECTS -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" /> Featured Projects</h2>
+  <h2>🚀 Featured Projects</h2>
 </div>
 
 <table align="center">
@@ -191,7 +191,7 @@
 
 <!-- FUN SECTION (Trophies, Quote, Counter) -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="Magic Wand" width="25" /> The Fun Section</h2>
+  <h2>🪄 The Fun Section</h2>
 </div>
 
 <br/>
