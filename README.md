@@ -19,7 +19,7 @@
 
 ## 💫 About Me
 
-- 🎓 BCA Student
+- 🎓 BTech Student
 - 💻 Passionate Full Stack Developer
 - 🧩 Competitive Programmer
 - 🌱 Currently learning **Next.js, TypeScript & System Design**
